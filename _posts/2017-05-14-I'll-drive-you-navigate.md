@@ -1,7 +1,7 @@
 ---
-layout: default
-title: "Day 1 - I'll drive, you navigate, now switch"
-date: 2017-05-14
+layout: post
+title: "I'll drive, you navigate, now switch"
+date: 2017-05-08 T10:00:00Z
 ---
 
 Hidden behind a bus stop, a stone's throw from Spitalfields market, stands an unsuspecting door. On entering the lift, with it's one flickering light gently reassuring me that we are still ascending, I am delivered to Makers Academy.

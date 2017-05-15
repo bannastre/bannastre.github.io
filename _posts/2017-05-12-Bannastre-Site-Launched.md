@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title: "Bannastre Blog Site Launches!"
-date: 2017-05-12
+date: 2017-05-08 T10:00:00Z
 ---
 
 
