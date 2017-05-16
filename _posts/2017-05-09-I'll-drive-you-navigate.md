@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'll drive, you navigate, now switch"
-date: 2017-05-08 T10:00:00Z
+date: 2017-05-09 T10:00:00Z
 ---
 
 Hidden behind a bus stop, a stone's throw from Spitalfields market, stands an unsuspecting door. On entering the lift, with it's one flickering light gently reassuring me that we are still ascending, I am delivered to Makers Academy.
@@ -10,7 +10,7 @@ Day 1 starts with a welcoming breakfast in the converted warehouse that is Maker
 
 The big take-away for today, and the title subject of this post is most likely to be the central pillar of my Dev-Education. Pair Programming, or pairing, is quite simply a technique that allows programmers to work together on a single project. It's a social skill in itself and as I have more than once been called out for struggling in silence, I hope pairing is a way for me to overcome that and generally be more collaborative.
 
-Pairing is not just splitting tasks and sharing the load, though. There is a structure (actually there are a range of structures) and a set of roles and responsibilities that make it work. The rules, which were set down in 1996 by the [Extreme Programming movement](http://www.extremeprogramming.org/rules/pair.html) are simple.
+Pairing is not just splitting tasks and sharing the load, though. There is a structure (actually there are a range of structures) and a set of roles and responsibilities that make it work. The rules, which were set down in 1996 by the [Extreme Programming movement](http://www.extremeprogramming.org/rules/pair.html) (XP) are simple.
 
 Two developers sit side by side in front and share a single computer, one a Driver and the other a Navigator. The Driver has the keyboard and is responsible for inputs to the code, deciding 'How' it is interpreted. The Navigator observes and critiques, taking care of the 'What'. As the project advances, the roles switch at regular and pre-determined intervals.
 
