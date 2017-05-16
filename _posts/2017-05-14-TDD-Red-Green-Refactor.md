@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "TDD - Red Green Refactor"
-date: 2017-05-08 T10:00:00Z
+date: 2017-05-14 T10:00:00Z
 ---
 
 Today felt as though, during the night, someone has opened my brain and created new connections in the 'Ruby-cortex'. As Week One comes to an end, the sense that the structure and syntax of this new language is already becoming second nature. So is the method by which we attack each new problem, whereby we seek first to identify the problem that we are trying to solve before writing a test that will confirm the solution. Only then is any code written. I am of course talking about Test Driven Development.
