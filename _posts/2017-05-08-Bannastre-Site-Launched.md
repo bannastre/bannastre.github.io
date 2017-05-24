@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bannastre Blog Site Launches!"
+title: "Hello World!"
 date: 2017-05-08 T10:00:00Z
 ---
 
