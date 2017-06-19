@@ -33,7 +33,7 @@ So here goes...
 - Slack with Github / Waffle integrations.
 - Sit near each other, run ideas past the team, get input for the bigger decisions, share jokes.  
 
-  
+
 At the very least, give the team a name. This is not only for fun, it allows the team to engage with each other creatively and build consensus.
 
-Hopefully that acts as a basic skeleton and details just _some_ of the things that a newly formed project team can do to build as a team.
+Hopefully that acts as a basic skeleton and details just _some_ of the things that a newly formed project group can do to build as a team.
