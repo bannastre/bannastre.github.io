@@ -12,23 +12,23 @@ This freedom was our undoing. Without going into too much detail and in order to
 
 So here goes...
 
-###### 1. Do an initial kick-off:  
+#### 1. Do an initial kick-off:  
 - Establish what went well from the last project and what was difficult.
 - Sign up to a charter for the project, getting buy and commitment to the project rules.
 - Separate out setup items into pairs.
 - Take some time to understand and discuss what project tools we might need.
 
-###### 2. Structure the Workflow:  
+#### 2. Structure the Workflow:  
 - Pre-determine pair-swapping etiquette (eg. event or time driven?).
 - Use a tool for managing workflow from the off in the Kanban style.
 - Waffle.io is such a tool, Trello is another and Github has its own 'Projects' built in.
 
-###### 3. Define rules for interacting with the Master repo:  
+#### 3. Define rules for interacting with the Master repo:  
 - Discuss what constitutes a "worthy commit"
 - Pull master branch to your own prior to any pull request.
 - Resolve git merge issues on remote.
 
-###### 4. Communicate, Communicate, Communicate:  
+#### 4. Communicate, Communicate, Communicate:  
 - Establish 'Stand-up' routine -> 0900hrs and 1400hrs.
 - Slack with Github / Waffle integrations.
 - Sit near each other, run ideas past the team, get input for the bigger decisions, share jokes.
