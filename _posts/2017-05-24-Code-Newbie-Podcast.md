@@ -4,7 +4,7 @@ title: "CodeNewbie Podcast!"
 date: 2017-05-24 T09:00:00Z
 ---
 
-Just a tiny post to shre the love about an awesome podcast tailored for us newbies.
+Just a tiny post to share the love about an awesome podcast tailored for us newbies.
 
 [CodeNewbie -> codenewbie.org/podcast](http://www.codenewbie.org/podcast)
 
